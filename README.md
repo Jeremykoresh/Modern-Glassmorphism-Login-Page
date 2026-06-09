@@ -14,6 +14,8 @@ A modern and responsive login page built with pure HTML and CSS. This project fe
 
 ## 📸 Preview
 
+![Preview](preview.png)
+
 Modern login page with:
 - Glassmorphism card
 - Gradient animation
